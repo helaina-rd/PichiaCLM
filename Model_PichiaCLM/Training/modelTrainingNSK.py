@@ -55,8 +55,8 @@ Setting_no = 1
 
 Max_length = 1000
 learning_rate = 0.001
-batch_size = 150
-epochs = 100
+batch_size = 32
+epochs = 50
 aa_vocab_size = 25
 dna_vocab_size = 67
 
